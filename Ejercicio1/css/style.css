@@ -1,0 +1,47 @@
+body {
+    background-image: url('../resources/background.jpg');
+    background-size: cover;
+    
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.principal {
+    margin: 80px;
+    width: 30vw;
+    padding-top: 0px;
+    padding-bottom: 30px;
+
+    color: white;
+}
+
+.interior {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: grey;
+    background-color: white;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    height: 2.5rem;
+    color: white;
+}
+
+button {
+    color: white;
+}
+
+.texto {
+    padding-top: 30px;
+}
+
+.transparente {
+    border: 1px solid white;
+}

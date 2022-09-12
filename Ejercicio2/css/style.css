@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    padding-top: 1em;
+    color: rgb(66, 66, 218);
+}
+
+.container {
+    background-color: rgb(232, 231, 231);
+}
+
+textarea {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    width: 100%;
+}
